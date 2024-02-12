@@ -12,7 +12,3 @@ Welcome to our advanced management system! Utilize micro-services like customer-
 <img src="Pics/12.png">
 <img src="Pics/13.png">
 <img src="Pics/14.png">
-<img src="Pics/15.png">
-<img src="Pics/16.png">
-<img src="Pics/17.png">
-<img src="Pics/18.png">
